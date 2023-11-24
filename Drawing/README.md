@@ -7,8 +7,6 @@ This Java program allows you to draw the letter 'E' in various ways: on the cons
 - [Usage](#usage)
 - [File Descriptions](#file-descriptions)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Usage
 
