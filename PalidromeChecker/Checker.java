@@ -1,5 +1,3 @@
-package A12;
-
 import java.text.Normalizer;
 import java.util.Locale;
 import java.util.Scanner;
